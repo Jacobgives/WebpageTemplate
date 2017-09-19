@@ -1,0 +1,46 @@
+#wrapper{
+  padding: 15px;
+  width: 1000px;
+  background-color:  blue;
+  margin: 0px auto;
+}
+#header{
+  margin: 15px;
+  padding: 7px 0px 7px 15px;
+  display: block;
+  background-color: red;
+  color: gray;
+  border-radius: 15px;
+  }
+#navigation{
+  vertical-align: top;
+  margin-left: 15px;
+  padding: 15px;
+  display: inline-block;
+  background-color: lightblue;
+  border-radius: 15px;
+  color: teal;
+  }
+#main_content{
+margin-left: 20px;
+  font-size: 10pt;
+  width: 700px;
+  padding: 15px;
+  display: inline-block;
+  color: gray;
+  background-color: black;
+  border-radius: 15px;
+  margin-bottom: 15px
+}
+#bottom_link{
+  padding: 6px;
+  padding-left: 15px;
+  margin-left: 20px;
+  display: block;
+  background-color: green;
+  border-radius: 15px;
+  margin-bottom: 15px
+}lass1{
+
+
+}
